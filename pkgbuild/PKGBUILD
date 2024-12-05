@@ -1,8 +1,8 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
-pkgdesc="Package template for Chililinux"
-#depends=('')
+pkgname=chili-fetch
+pkgdesc="Gerenciador de pacotes do Chili Linux"
+depends=(which findutils tar zstd curl sed coreutils grep gawk ncurses lynx gettext parallel)
 #makedepends=('')
 #optdepends=('')
 #conflicts=('')

@@ -1,3 +1,3 @@
-# chili-pkgbuild-template
+# chili-fetch
 
-Template for Chili Linux packages
+Gerenciador de pacotes do Chili Linux
